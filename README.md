@@ -1,6 +1,5 @@
 # Graph
 This repository contains tricks and techniques involved with the Graph data structures.
-
 ## Algorithms and Designs
 
 ### 1. Adjacent Matrix Creation and Edge List Marking
