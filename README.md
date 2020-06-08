@@ -164,7 +164,7 @@ The adjacent matrix can be represented as,
         return has_path_helper(edges_list,num_nodes,starting_vertex,ending_vertex,visited);
     }
 
-### 3. Has Path - Checking if there is a path from one node to the other
+### 3. Print Path - Printing the path between two given nodes, Using DFS
 
 <b>PseudoCode:</b>
 
