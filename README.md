@@ -325,7 +325,7 @@ The adjacent matrix can be represented as,
         return (flag==0);
     }
     
-### 7. Transitive Closure Of A Graph Using Floyd Warshall Algorith
+### 7. Transitive Closure Of A Graph Using Floyd Warshall Algorithm
 
 <b>Main Code in C++:</b>
 
