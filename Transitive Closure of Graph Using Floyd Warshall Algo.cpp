@@ -87,7 +87,8 @@ int main()
         int first_node,second_node;
         cin >> first_node >> second_node;
         edges_list[first_node][second_node] = 1;
-        edges_list[i][i]=1;
+        if(i<num_nodes)
+            edges_list[i][i]=1;
     }
 
     cout << "Input Adjacent Matrix Graph:" << endl;
