@@ -3,10 +3,10 @@
 ### Adjacent Matrix Creation and Edge List Marking
 
 Creating an adjacent matrix is necessary. Suppose we have a graph like below,
-![graph image](https://github.com/Treasure-Code-Algorithm/Graph/blob/master/graph.PNG)
+![graph image](https://github.com/Abhijit2505/Graph/blob/master/Image%20Assets/graph.png)
 
 The adjacent matrix can be represented as,
-![adjacent matrix](https://github.com/Treasure-Code-Algorithm/Graph/blob/master/adjacent%20matrix.PNG)
+![adjacent matrix](https://github.com/Abhijit2505/Graph/blob/master/Image%20Assets/adjacent%20matrix.png)
 
 ### Bredth First Search (BFS) - Graph Traversal Technique
 
